@@ -1,3 +1,8 @@
+https://github.com/lxgw/LxgwWenKai
+
+https://shuimo.design/quickStart
+
+
 ![nuxt-ui-saas-social-card](https://github.com/nuxt-ui-pro/saas/assets/739984/50bf4ddd-c4d5-47e5-a09e-0f699513dfb5)
 
 # Nuxt UI Pro - SaaS template
